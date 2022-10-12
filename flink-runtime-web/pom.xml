@@ -139,7 +139,7 @@ under the License.
 				</property>
 			</activation>
 			<properties>
-				<npm.proxy>--registry http://172.17.0.1:8888/repository/npm/</npm.proxy>
+				<npm.proxy>--registry https://registry.npmmirror.com</npm.proxy>
 			</properties>
 		</profile>
 	</profiles>
